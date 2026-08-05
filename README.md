@@ -44,16 +44,21 @@ Você pode acompanhar na ordem ou começar pelo tema que mais se aproxima da sua
 
 📂 Estrutura do repositório
 
-.
-├── README.md
-├── post01/
-│   ├── README.md
-│   ├── 2026Base_Vendas.xlsx
-│   └── Gabarito_2026Base_Vendas.xlsx
-├── post02/
-├── post03/
-└── ...
+📄 README.md — apresentação geral do desafio;
 
+📁 post01/ — primeiro conteúdo do desafio;
+
+📄 README.md — instruções do exercício;
+
+📊 2026Base_Vendas.xlsx — planilha com os dados sintéticos;
+
+✅ Gabarito_2026Base_Vendas.xlsx — arquivo para conferência;
+
+📁 post02/ — segundo conteúdo;
+
+📁 post03/ — terceiro conteúdo;
+
+📁 post04/ até post14/ — adicionados conforme o desafio avançar.
 
 As novas pastas serão adicionadas conforme o desafio avançar.
 
@@ -162,3 +167,7 @@ Este projeto tem finalidade educacional. Você pode estudar, testar e compartilh
 Atualizar o método não apaga a sua experiência. Faz com que ela volte a trabalhar a seu favor.
 
 O calendário já andou. Seu jeito de trabalhar precisa andar também.
+
+Acompanhe o desafio, teste cada exercício e compartilhe o que mudou na sua rotina.
+
+#Desafio28 #PareDeTrabalharNoPassado #InteligenciaArtificial #Produtividade #Carreira
