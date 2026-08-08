@@ -175,7 +175,7 @@ NIST — AI Risk Management Framework:https://www.nist.gov/itl/ai-risk-managemen
 
 📌 Uso do material
 
-Material educacional criado para o Desafio 28: Pare de Trabalhar no Passado.
+Material educacional criado para o Desafio 28: Pare de Trabalhar no Passado..
 
 Todos os dados foram gerados artificialmente, de forma pseudoaleatória, e não representam clientes, pessoas, pedidos, projetos, sistemas ou empresas reais.
 
