@@ -99,4 +99,4 @@ NIST — AI RMF: Human-AI Interaction
 
 🌅 Fechamento
 Dizer que existe um problema é observação. Mostrar onde ele acontece, quais hipóteses merecem teste e qual decisão pode mudar o cenário é análise.
-Pra trás, nem pra pegar impulso.
+Pra trás, nem pra pegar impulso..
