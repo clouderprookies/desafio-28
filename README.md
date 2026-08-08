@@ -168,6 +168,6 @@ Atualizar o método não apaga a sua experiência. Faz com que ela volte a traba
 
 O calendário já andou. Seu jeito de trabalhar precisa andar também.
 
-Acompanhe o desafio, teste cada exercício e compartilhe o que mudou na sua rotina.
+Acompanhe o desafio, teste cada exercício e compartilhe o que mudou na sua rotina..
 
 #Desafio28 #PareDeTrabalharNoPassado #InteligenciaArtificial #Produtividade #Carreira
